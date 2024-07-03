@@ -1,11 +1,11 @@
 # cyPractice-atlassian
 
+## Overview
 Hi, there. This is only an E2E automation testing using cypress to Atlassian pages for practice purpose. 
 
-## Overview
 Here, you can see the three files in the e2e folder. Each file contains some test cases related to the name of the file. Since the scripts have already been run, you can see the videos and reports in the related folders. If you want to know how I did this entire practice, let's move to the next section.
 
-## How to...
+## Brief
 1. Install Cypress 
 2. Install Mochawsome thru https://www.npmjs.com/package/cypress-mochawesome-reporter
 3. Open cypress.config.js file, and enable the video with this code:
